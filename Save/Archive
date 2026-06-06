@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Archive — RARO</title>
+
+<style>
+
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+}
+
+body{
+background:#000;
+color:#d4b06a;
+font-family:Arial,sans-serif;
+}
+
+.container{
+max-width:700px;
+margin:auto;
+padding:100px 30px;
+text-align:center;
+}
+
+.logo{
+font-size:80px;
+letter-spacing:15px;
+font-weight:300;
+margin-bottom:40px;
+}
+
+.archive-title{
+font-size:18px;
+letter-spacing:8px;
+margin-bottom:80px;
+}
+
+.intro{
+color:#d8d0c5;
+font-size:20px;
+line-height:2;
+margin-bottom:120px;
+}
+
+.concept{
+display:block;
+text-decoration:none;
+color:inherit;
+padding:70px 0;
+border-top:1px solid rgba(212,176,106,.15);
+}
+
+.concept:last-of-type{
+border-bottom:1px solid rgba(212,176,106,.15);
+}
+
+.number{
+font-size:14px;
+letter-spacing:4px;
+margin-bottom:25px;
+color:#9f8757;
+}
+
+.symbol{
+font-size:34px;
+line-height:1.4;
+margin-bottom:30px;
+white-space:pre-line;
+}
+
+.name{
+font-size:42px;
+letter-spacing:8px;
+margin-bottom:15px;
+}
+
+.meaning{
+font-size:14px;
+letter-spacing:6px;
+margin-bottom:30px;
+color:#9f8757;
+text-transform:uppercase;
+}
+
+.quote{
+max-width:420px;
+margin:auto;
+color:#d8d0c5;
+font-size:18px;
+line-height:1.8;
+}
+
+.navigation{
+display:flex;
+justify-content:space-between;
+align-items:center;
+margin-top:120px;
+gap:20px;
+}
+
+.navigation a{
+color:#d4b06a;
+text-decoration:none;
+letter-spacing:4px;
+font-size:16px;
+transition:.3s ease;
+}
+
+.navigation a:hover{
+opacity:.7;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<div class="logo">
+RARO
+</div>
+
+<div class="archive-title">
+ARCHIVE OF MARKS
+</div>
+
+<div class="intro">
+Each concept explores a different mark.
+<br><br>
+Together they form the Archive.
+</div>
+
+<a href="void.html" class="concept">
+
+<div class="number">
+01
+</div>
+
+<div class="symbol">
+◯
+</div>
+
+<div class="name">
+VOID
+</div>
+
+<div class="meaning">
+Beginning
+</div>
+
+<div class="quote">
+Nothing.
+<br>
+Yet.
+<br>
+Everything.
+</div>
+
+</a>
+
+<a href="roots.html" class="concept">
+
+<div class="number">
+02
+</div>
+
+<div class="symbol">
+│
+<br>
+/│\
+<br>
+/ │ \
+</div>
+
+<div class="name">
+ROOTS
+</div>
+
+<div class="meaning">
+Origin
+</div>
+
+<div class="quote">
+The memory beneath the surface.
+</div>
+
+</a>
+
+<a href="nhr.html" class="concept">
+
+<div class="number">
+03
+</div>
+
+<div class="symbol">
+╱╲
+<br>
+╲╱
+</div>
+
+<div class="name">
+NHR
+</div>
+
+<div class="meaning">
+Journey
+</div>
+
+<div class="quote">
+Direction is discovered in motion.
+</div>
+
+</a>
+
+<a href="dijla.html" class="concept">
+
+<div class="number">
+04
+</div>
+
+<div class="symbol">
+≈≈≈
+</div>
+
+<div class="name">
+DIJLA
+</div>
+
+<div class="meaning">
+Movement
+</div>
+
+<div class="quote">
+What flows continues.
+</div>
+
+</a>
+
+<a href="athar.html" class="concept">
+
+<div class="number">
+05
+</div>
+
+<div class="symbol">
+•
+<br>
+\
+<br>
+\
+<br>
+•
+</div>
+
+<div class="name">
+ATHAR
+</div>
+
+<div class="meaning">
+Mark
+</div>
+
+<div class="quote">
+Presence remains after passage.
+</div>
+
+</a>
+
+<a href="echo.html" class="concept">
+
+<div class="number">
+06
+</div>
+
+<div class="symbol">
+◉
+<br>
+◎
+<br>
+○
+</div>
+
+<div class="name">
+ECHO
+</div>
+
+<div class="meaning">
+Resonance
+</div>
+
+<div class="quote">
+Some things return transformed.
+</div>
+
+</a>
+
+<div class="navigation">
+
+<a href="about.html">
+← BACK
+</a>
+
+<a href="void.html">
+ENTER VOID →
+</a>
+
+</div>
+
+</div>
+
+</body>
+</html>
