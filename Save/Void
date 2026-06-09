@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>RARO — VOID</title>
+
+<link rel="stylesheet" href="Save/css/style.css">
+
+<style>
+
+.hero{
+padding-top:100px;
+padding-bottom:140px;
+text-align:center;
+}
+
+.archive-number{
+font-size:14px;
+letter-spacing:6px;
+color:#9f8757;
+margin-bottom:30px;
+}
+
+.symbol{
+font-size:120px;
+line-height:1;
+margin-bottom:40px;
+}
+
+.concept-name{
+font-size:72px;
+letter-spacing:12px;
+font-weight:300;
+margin-bottom:20px;
+}
+
+.concept-type{
+font-size:16px;
+letter-spacing:8px;
+text-transform:uppercase;
+color:#9f8757;
+margin-bottom:50px;
+}
+
+.hero-quote{
+font-size:22px;
+line-height:2;
+color:#d8d0c5;
+}
+
+.section-label{
+font-size:14px;
+letter-spacing:8px;
+text-transform:uppercase;
+margin-bottom:40px;
+}
+
+.archive-image{
+width:min(90vw,650px);
+aspect-ratio:4/5;
+object-fit:cover;
+display:block;
+margin:0 auto;
+}
+
+.notes{
+max-width:500px;
+margin:auto;
+text-align:left;
+}
+
+.note-item{
+margin-bottom:35px;
+}
+
+.note-label{
+font-size:12px;
+letter-spacing:4px;
+text-transform:uppercase;
+color:#9f8757;
+margin-bottom:10px;
+}
+
+.note-value{
+font-size:22px;
+color:#d8d0c5;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<section class="hero">
+
+<div class="archive-number">
+01
+</div>
+
+<div class="symbol">
+◯
+</div>
+
+<div class="concept-name">
+VOID
+</div>
+
+<div class="concept-type">
+BEGINNING
+</div>
+
+<div class="hero-quote">
+Nothing.
+<br>
+Yet.
+<br>
+Everything.
+</div>
+
+</section>
+
+<section class="section">
+
+<div class="section-label">
+CONCEPT
+</div>
+
+<div class="text">
+Void is not emptiness.
+<br><br>
+It is the space before form,
+the silence before language,
+the moment before creation.
+<br><br>
+Every mark begins here.
+</div>
+
+  </section>
+<section class="section">
+
+<div class="section-label">
+ARCHIVE NOTES
+</div>
+
+<div class="notes">
+
+<div class="note-item">
+<div class="note-label">Concept</div>
+<div class="note-value">01 — VOID</div>
+</div>
+
+<div class="note-item">
+<div class="note-label">Classification</div>
+<div class="note-value">Beginning</div>
+</div>
+
+<div class="note-item">
+<div class="note-label">Status</div>
+<div class="note-value">Active</div>
+</div>
+
+<div class="note-item">
+<div class="note-label">Archive Reference</div>
+<div class="note-value">VOID-01</div>
+</div>
+</section>
+  
+</div>
+<section class="section">
+
+<div class="section-label">
+LIFESTYLE
+</div>
+
+<img
+src="Images/Void/D26D884C-5BD9-43D6-BDBD-A84F8E941309.png"
+alt="VOID Lifestyle"
+class="archive-image">
+
+</section>
+
+<section class="section">
+
+<div class="section-label">
+GARMENT
+</div>
+
+<br><br>
+
+<div class="section-label">
+FRONT
+</div>
+
+<img
+src="Images/Void/AAD977A6-EAE2-4549-8ABF-EF7BB22FAC60.png"
+alt="VOID Front"
+class="archive-image">
+
+<br><br><br>
+
+<div class="section-label">
+BACK
+</div>
+
+<img
+src="Images/Void/EF754D3F-13D2-4E82-AE93-3FA8FA437796.png"
+alt="VOID Back"
+class="archive-image">
+
+</section>
+
+<section class="section">
+
+<div class="section-label">
+MATERIAL
+</div>
+
+<br><br>
+
+<div class="section-label">
+FABRIC
+</div>
+
+<img
+src="Images/Void/188059A6-2FA4-4AB5-8117-4847ED5A84C8.png"
+alt="VOID Fabric"
+class="archive-image">
+
+</section>
+
+<section class="section">
+
+<div class="section-label">
+PRESENTATION
+</div>
+
+<br><br>
+
+<div class="section-label">
+PACKAGING
+</div>
+
+<img
+src="Images/Void/EE9184CD-0F6A-4A13-BD00-4A3077BA37A7.png"
+alt="VOID Packaging"
+class="archive-image">
+
+</section>
+
+
+<div class="navigation">
+
+<a href="archive.html">
+← ARCHIVE
+</a>
+
+<a href="roots.html">
+ROOTS →
+</a>
+
+</div>
+
+</div>
+
+</body>
+</html>
